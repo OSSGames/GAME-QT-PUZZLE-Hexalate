@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file alias="hexalate.png">hicolor/256x256/apps/hexalate.png</file>
+</qresource>
+</RCC>

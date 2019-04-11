@@ -1,0 +1,47 @@
+1.1.4
+-----
+* FIXED: Automatic high DPI support.
+
+1.1.3
+-----
+* Extra warnings only shown in debug build.
+* Improved Linux deployment.
+* Improved macOS deployment.
+* Improved Windows deployment.
+* Translation updates: Chinese, Dutch, Estonian, Portuguese.
+
+1.1.2
+-----
+* FIXED: Could not compile with Qt 5.10.
+
+1.1.1
+-----
+* FIXED: Did not always install translations in Linux.
+* Translation updates: Portuguese (Brazil)
+
+1.1.0
+-----
+* Added support for high DPI displays.
+* Switched to C++11 random classes.
+* Removed support for Qt 4.
+* Generate binary translations at build time.
+* FIXED: Was not properly loading Qt translations.
+* FIXED: Application layout did not respect RTL languages.
+* Translation updates: Czech, Dutch, German, Greek, Hungarian, Italian,
+  Lithuanian, Malay, Polish, Portuguese (Brazil), Romanian, Russian, Spanish.
+
+1.0.3
+-----
+* Added README file.
+* Translation updates: German, Malay, Polish, Spanish.
+
+1.0.2
+-----
+* Added rotating pieces with any mouse button.
+* Added support for Qt 5.
+* Translation updates: Catalan, Czech, Estonian, French, German, Romanian,
+  Russian, Spanish, Turkish.
+
+1.0.1
+-----
+* Fixed crash on launch.
